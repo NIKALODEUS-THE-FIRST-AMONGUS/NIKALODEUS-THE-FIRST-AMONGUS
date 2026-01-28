@@ -44,7 +44,9 @@ Docker, CI/CD, Git, Figma
 Building scalable, **eye-grabbing applications** that solve real-world problems across  
 **embedded systems, IoT, and full-stack development**.
 
-🌐 **Portfolio:** https://portfolio-website-gilt-sigma-37.vercel.app/  
+<a href="https://portfolio-website-gilt-sigma-37.vercel.app/" target="_blank" rel="noopener noreferrer">
+## 🌐View My Portfolio
+</a> 
 📫 **Email:** githubforme540@gmail.com
 
 ---
