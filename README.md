@@ -1,4 +1,7 @@
 # 💫 About Me:
+# 💫 About Me
+![Profile views](https://komarev.com/ghpvc/?username=NIKALODEUS-THE-FIRST-AMONGUS&label=Profile%20Views&color=0e75b6&style=flat)
+
 I am an ECE Engineer <br>working towards embedded systems# Hi there 👋<br>**Full Stack Developer & Embedded Systems Specialist**<br>I bridge the gap between hardware and software, crafting high-performance digital experiences and robust IoT solutions. My work combines the precision of embedded engineering with the aesthetics of modern web development.<br>🏆 **Highlights**<br>- **Smart India Hackathon  (3rd Place):** Created the Website working as a member of the group[Project Varuna (RT-HOWS)](https://github.com/AnuraagSun/Real-Time-Hydrologic-Observation-and-Warning-System-RT-HOWS-/tree/main) - A real-time hydrologic warning system.<br>- **Hackathon Winner:** Built an Award-Winning Air Quality Monitoring System using IoT & Embedded C.<br>🛠️ **Tech Stack**<br>- **Languages:** C, Python, Java, TypeScript, JavaScript<br>- **Embedded:** 8051, NXP LPC2148, Embedded C, IoT Sensors<br>- **Web:** React, Next.js, Tailwind CSS, PostgreSQL, Framer Motion<br>- **Tools:** Docker, CI/CD, Figma, Git<br>🚀 **Focus:** Building scalable, "eye-grabbing" applications that solve real-world problems.<br>[🌐 View My Portfolio](https://portfolio-website-gilt-sigma-37.vercel.app/) | [📫 Contact Me](mailto:githubforme540@gmail.com)
 
 
@@ -22,4 +25,3 @@ I am an ECE Engineer <br>working towards embedded systems# Hi there 👋<br>**Fu
 ![](https://github-contributor-stats.vercel.app/api?username=NIKALODEUS-THE-FIRST-AMONGUS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NIKALODEUS-THE-FIRST-AMONGUS&icon=0&color=0)](https://visitcount.itsvg.in)
