@@ -3,80 +3,93 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NIKALODEUS-THE-FIRST-AMONGUS&label=Profile%20Views&color=0e75b6&style=flat)
 
 👋 Hi there!  
-I’m an **ECE Engineer** working towards **Embedded Systems**, with strong experience as a  
+I’m an **ECE Engineer** focused on **Embedded Systems**, with strong hands-on experience as a  
 **Full Stack Developer & Embedded Systems Specialist**.
 
-I bridge hardware and software, building high-performance digital experiences and robust IoT solutions.  
+I bridge **hardware and software**, crafting high-performance digital experiences and robust IoT solutions.  
 My work blends embedded precision with modern web aesthetics.
 
 ---
 
 ## 🏆 Highlights
 
-- **Smart India Hackathon (3rd Place)**  
-  Contributed as a Web Developer to  
-  [Project Varuna (RT-HOWS)](https://github.com/AnuraagSun/Real-Time-Hydrologic-Observation-and-Warning-System-RT-HOWS-/tree/main)  
-  A real-time hydrologic observation and warning system.
+🏅 **Smart India Hackathon (3rd Place)**  
+Contributed as a **Web Developer** to  
+🔗 [Project Varuna (RT-HOWS)](https://github.com/AnuraagSun/Real-Time-Hydrologic-Observation-and-Warning-System-RT-HOWS-/tree/main)  
+A real-time hydrologic observation and warning system.
 
-- **Hackathon Winner**  
-  Built an award-winning **Air Quality Monitoring System** using IoT and Embedded C.
+🏆 **Hackathon Winner**  
+Built an award-winning **Air Quality Monitoring System** using **IoT & Embedded C**.
 
 ---
 
 ## 🛠️ Core Skills
 
-**Languages**  
-C, Python, Java, TypeScript, JavaScript
+🧑‍💻 **Languages**  
+C • Python • Java • TypeScript • JavaScript
 
-**Embedded Systems**  
-8051, NXP LPC2148, Embedded C, IoT Sensors
+⚙️ **Embedded Systems**  
+8051 • NXP LPC2148 • Embedded C • IoT Sensors
 
-**Web Technologies**  
-React, Next.js, Tailwind CSS, PostgreSQL, Framer Motion
+🌐 **Web Technologies**  
+React • Next.js • Tailwind CSS • PostgreSQL • Framer Motion
 
-**Tools & Platforms**  
-Docker, CI/CD, Git, Figma
+🧰 **Tools & Platforms**  
+Docker • CI/CD • Git • Figma
 
 ---
 
 ## 🚀 Focus
 
-Building scalable, **eye-grabbing applications** that solve real-world problems across  
-**embedded systems, IoT, and full-stack development**.
+Building **scalable, eye-grabbing applications** that solve real-world problems across  
+**Embedded Systems, IoT, and Full-Stack Development**.
 
+---
+
+## 🔗 Connect With Me
+
+🌐 **Portfolio**  
 <a href="https://portfolio-website-gilt-sigma-37.vercel.app/" target="_blank" rel="noopener noreferrer">
-## 🌐View My Portfolio
-</a> 
-📫 **Email:** githubforme540@gmail.com
+👉 View My Portfolio
+</a>
+
+💼 **LinkedIn**  
+<a href="YOUR_LINKEDIN_PROFILE_LINK_HERE" target="_blank" rel="noopener noreferrer">
+👉 Connect on LinkedIn
+</a>
+
+📫 **Email**  
+[githubforme540@gmail.com](mailto:githubforme540@gmail.com)
 
 ---
 
 ## 🌐 Socials
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:githubforme540@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:githubforme540@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_LINK_HERE)
 
 ---
 
 ## 💻 Tech Stack
 
-<!-- Languages & Core -->
+### 🧠 Languages & Core
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 
-<!-- Web -->
+### 🌐 Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-<!-- Backend & DB -->
+### 🗄 Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
 
-<!-- Embedded & Tools -->
+### ⚙️ Embedded & DevOps
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
