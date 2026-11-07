@@ -1,27 +1,97 @@
-# 💫 About Me:
-# Embedded Systems · Digital Design · IoT<br><br>**ECE student (B.E., 2027) · India**<br><br>I build hardware that works outside the lab: ESP32 and NodeMCU firmware, sensor pipelines, relay and EMI debugging, and digital circuits simulated in Verilog. I also build web dashboards and apps for the data my devices produce.<br><br>**Looking for:** hardware, embedded and VLSI internships and project trainee roles.<br><br>---<br><br>## Featured Projects<br><br>| Project | What it does | Stack |<br>|---|---|---|<br>| [air-quality-sensor](https://github.com/NIKALODEUS-THE-FIRST-AMONGUS/air-quality-sensor) | IoT air quality monitor. Hackathon winner. | NodeMCU, gas sensors, Embedded C |<br>| [door-surveillance-esp32](https://github.com/NIKALODEUS-THE-FIRST-AMONGUS/door-surveillance-esp32) | ESP32 door surveillance system | ESP32, JavaScript |<br>| [Embedded IoT Smart Parking System](https://github.com/NIKALODEUS-THE-FIRST-AMONGUS/Embbeded-IoT-based-Smart-Parking-System) | Slot detection and parking status over IoT | C++, sensors |<br>| Emotion-based RGB lighting | Face detection and emotion recognition on a Raspberry Pi, sent over MQTT to a NodeMCU that sets the RGB strip colour, with a synced Adafruit IO dashboard | Raspberry Pi, Keras (pre-trained model), MQTT, NodeMCU |<br>| Acoustic Aerial Vehicle Detector | MFCC feature extraction and a Keras classifier, 98% accuracy, written up as an IEEE-format paper | Python, TensorFlow/Keras |<br>| VLSI lab designs | Adders, mux and decoder trees, flip-flops, 8-bit up/down counters, Mealy and Moore FSMs | Verilog, Icarus Verilog, Proteus |<br><br><!-- Add the link to the Verilog lab repo here once it is pushed --><br><br>**In progress:** Dhruva Setu, a polar ocean sensing platform design for Smart India Hackathon 2026 (design stage: ESP32-S3 gateway, MSP430 CTD pod, LoRa link, bill of materials done).<br><br>---<br><br>## Experience and Highlights<br><br>- **Intern, Pragyatmika COE (May 2026):** built an ESP32 vending machine controller, diagnosed relay back-EMF/EMI faults, and added a firmware recovery routine.<br>- **Smart India Hackathon 2025, 3rd place (national):** team project [Project Varuna (RT-HOWS)](https://github.com/AnuraagSun/Real-Time-Hydrologic-Observation-and-Warning-System-RT-HOWS-/tree/main), a real-time hydrologic observation and warning system.<br>- **Hackathon winner:** air quality monitoring system built with IoT and Embedded C.<br>- **3rd place, Pragyatmika Hackathon.**<br><br>---<br><br>## Skills<br><br>**Embedded and hardware:** ESP32, NodeMCU, MSP430, 8051, NXP LPC2148, Arduino, Raspberry Pi, Embedded C/C++, sensors, relay and EMI debugging<br><br>**Digital design:** Verilog, SystemVerilog, Icarus Verilog, Proteus, FSM design, counters, adders, mux/decoder trees<br><br>**Design and analysis tools:** KiCad (PCB), HFSS (antennas), Autodesk Fusion 360, Tinkercad<br><br>**IoT and protocols:** MQTT, Adafruit IO, Wi-Fi, LoRa<br><br>**Languages:** C, C++, Python, Java, JavaScript, TypeScript<br><br>**Signal processing and ML:** MFCC, DSP, TensorFlow/Keras<br><br>**Web (for dashboards and tooling):** React, Next.js, Tailwind CSS, Node.js, PostgreSQL, MongoDB<br><br>**Dev tools:** Git, GitHub, Linux command line, Docker<br><br>---<br><br>## Education<br><br>**B.E., Electronics and Communication Engineering**, expected 2027<br><br>---<br><br>## Contact<br><br>- **Email:** githubforme540@gmail.com<br>- **Portfolio:** [portfolio-website-gilt-sigma-37.vercel.app](https:/# 💫 About Me<br><br>![Profile Views](https://komarev.com/ghpvc/?username=NIKALODEUS-THE-FIRST-AMONGUS&label=Profile%20Views&color=0e75b6&style=flat)<br><br>👋 Hi there!  <br>I’m an **ECE Engineer** focused on **Embedded Systems**, with strong hands-on experience as a  <br>**Full Stack Developer & Embedded Systems Specialist**.<br><br>I bridge **hardware and software**, crafting high-performance digital experiences and robust IoT solutions.  <br>My work blends embedded precision with modern web aesthetics.<br><br>---<br><br>## 🏆 Highlights<br><br>🏅 **Smart India Hackathon (3rd Place)**  <br>Contributed as a **Web Developer** to  <br>🔗 [Project Varuna (RT-HOWS)](https://github.com/AnuraagSun/Real-Time-Hydrologic-Observation-and-Warning-System-RT-HOWS-/tree/main)  <br>A real-time hydrologic observation and warning system.<br><br>🏆 **Hackathon Winner**  <br>Built an award-winning **Air Quality Monitoring System** using **IoT & Embedded C**.<br><br>---<br><br>## 🛠️ Core Skills<br><br>🧑‍💻 **Languages**  <br>C • Python • Java • TypeScript • JavaScript<br><br>⚙️ **Embedded Systems**  <br>8051 • NXP LPC2148 • Embedded C • IoT Sensors<br><br>🌐 **Web Technologies**  <br>React • Next.js • Tailwind CSS • PostgreSQL • Framer Motion<br><br>🧰 **Tools & Platforms**  <br>Docker • CI/CD • Git • Figma<br><br>---<br><br>## 🚀 Focus<br><br>Building **scalable, eye-grabbing applications** that solve real-world problems across  <br>**Embedded Systems, IoT, and Full-Stack Development**.<br><br>---<br><br>## 🔗 Connect With Me<br><br>🌐 **Portfolio**  <br><a href="https://portfolio-website-gilt-sigma-37.vercel.app/" target="_blank" rel="noopener noreferrer"><br>👉 View My Portfolio<br></a><br><br>💼 **LinkedIn**  <br><a href="YOUR_LINKEDIN_PROFILE_LINK_HERE" target="_blank" rel="noopener noreferrer"><br>👉 Connect on LinkedIn<br></a><br><br>📫 **Email**  <br>[githubforme540@gmail.com](mailto:githubforme540@gmail.com)<br><br>---<br><br>## 🌐 Socials<br><br>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:githubforme540@gmail.com)<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_LINK_HERE)<br><br>---<br><br>## 💻 Tech Stack<br><br>### 🧠 Languages & Core<br>![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)<br>![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)<br>![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)<br>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)<br><br>### 🌐 Web<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)<br>![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)<br><br>### 🗄 Backend & Databases<br>![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)<br>![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)<br>![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)<br><br>### ⚙️ Embedded & DevOps<br>![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)<br>![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi)<br>![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)<br>![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)<br><br>---<br><br>## 📊 GitHub Stats<br><br>![](https://github-readme-stats.vercel.app/api?username=NIKALODEUS-THE-FIRST-AMONGUS&theme=dark&include_all_commits=true&count_private=true)<br>![](https://nirzak-streak-stats.vercel.app/?user=NIKALODEUS-THE-FIRST-AMONGUS&theme=dark)<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKALODEUS-THE-FIRST-AMONGUS&theme=dark&layout=compact)<br><br>---<br><br>## 🏆 GitHub Trophies<br><br>![](https://github-profile-trophy.vercel.app/?username=NIKALODEUS-THE-FIRST-AMONGUS&theme=radical&no-frame=true)<br><br>---<br><br>## ✍️ Random Dev Quote<br><br>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br><br>---<br><br>## 🔝 Top Contributed Repositories<br><br>![](https://github-contributor-stats.vercel.app/api?username=NIKALODEUS-THE-FIRST-AMONGUS&limit=5&theme=dark)<br><br>/portfolio-website-gilt-sigma-37.vercel.app/)
+# 💫 About Me
 
+### Embedded Systems · Digital Design · IoT
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jai-aditya-b-4516aa3ab) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@github for me) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:githubforme540@gmail.com) 
+**ECE student (B.E., 2027) · India**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NIKALODEUS-THE-FIRST-AMONGUS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=NIKALODEUS-THE-FIRST-AMONGUS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NIKALODEUS-THE-FIRST-AMONGUS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build hardware that works outside the lab: ESP32 and NodeMCU firmware, sensor pipelines, relay and EMI debugging, and digital circuits simulated in Verilog. I also build web dashboards and apps for the data my devices produce.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NIKALODEUS-THE-FIRST-AMONGUS&theme=aura&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NIKALODEUS-THE-FIRST-AMONGUS&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Looking for:** hardware, embedded and VLSI internships and project trainee roles.
 
 ---
-[![](https://komarev.com/ghpvc/?username=NIKALODEUS-THE-FIRST-AMONGUS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [air-quality-sensor](https://github.com/NIKALODEUS-THE-FIRST-AMONGUS/air-quality-sensor) | IoT air quality monitor. Hackathon winner. | NodeMCU, gas sensors, Embedded C |
+| [door-surveillance-esp32](https://github.com/NIKALODEUS-THE-FIRST-AMONGUS/door-surveillance-esp32) | ESP32 door surveillance system | ESP32, JavaScript |
+| [Embedded IoT Smart Parking System](https://github.com/NIKALODEUS-THE-FIRST-AMONGUS/Embbeded-IoT-based-Smart-Parking-System) | Slot detection and parking status over IoT | C++, sensors |
+| Emotion-based RGB lighting | Face detection and emotion recognition on a Raspberry Pi, sent over MQTT to a NodeMCU that sets the RGB strip colour, with a synced Adafruit IO dashboard | Raspberry Pi, Keras (pre-trained model), MQTT, NodeMCU |
+| Acoustic Aerial Vehicle Detector | MFCC feature extraction and a Keras classifier, 98% accuracy, written up as an IEEE-format paper | Python, TensorFlow/Keras |
+| VLSI lab designs | Adders, mux and decoder trees, flip-flops, 8-bit up/down counters, Mealy and Moore FSMs | Verilog, Icarus Verilog, Proteus |
+
+<!-- Add the link to the Verilog lab repo here once it is pushed -->
+
+**In progress:** Dhruva Setu, a polar ocean sensing platform design for Smart India Hackathon 2026 (design stage: ESP32-S3 gateway, MSP430 CTD pod, LoRa link, bill of materials done).
+
+---
+
+## 🏆 Experience and Highlights
+
+- **Intern, Pragyatmika COE (May 2026):** built an ESP32 vending machine controller, diagnosed relay back-EMF/EMI faults, and added a firmware recovery routine.
+- **Smart India Hackathon 2025, 3rd place (national):** team project [Project Varuna (RT-HOWS)](https://github.com/AnuraagSun/Real-Time-Hydrologic-Observation-and-Warning-System-RT-HOWS-/tree/main), a real-time hydrologic observation and warning system.
+- **Hackathon winner:** air quality monitoring system built with IoT and Embedded C.
+- **3rd place, Pragyatmika Hackathon.**
+
+---
+
+## 💻 Tech Stack
+
+### ⚙️ Embedded and Hardware
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-222?style=for-the-badge&logo=platformio&logoColor=f5822a)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-555?style=for-the-badge)
+![MSP430](https://img.shields.io/badge/MSP430-555?style=for-the-badge)
+![8051](https://img.shields.io/badge/8051-555?style=for-the-badge)
+![NXP LPC2148](https://img.shields.io/badge/NXP_LPC2148-555?style=for-the-badge)
+
+### 🧠 Digital Design
+![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge)
+![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-555?style=for-the-badge)
+![Proteus](https://img.shields.io/badge/Proteus-555?style=for-the-badge)
+
+### 🧑‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 📡 Signal Processing and ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Web (dashboards and tooling)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧰 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🎓 Education
+
+**B.E., Electronics and Communication Engineering**, expected 2027
+
+---
+
+## 🔗 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:githubforme540@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-gilt-sigma-37.vercel.app/)
